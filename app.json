@@ -1,0 +1,10 @@
+{
+    "name": "JacksonTheProgrammer",
+    "description": "snipe that sh",
+    "repository": "https://github.com/JacksonTheProgrammer/nitro-sniper",
+    "env": {
+        "settings": {
+            "required": true
+        }
+    }
+}
